@@ -4,4 +4,4 @@ python:
 install:
  - pip install pathlib
 script:
- - pytest
+ - pytest tests
