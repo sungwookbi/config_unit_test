@@ -2,6 +2,7 @@ language: python
 python:
  - "3.9"
 install:
- - pip install pathlib, pyyaml
+ - pip install pathlib
+ - pip install pyyaml
 script:
  - pytest tests
