@@ -9,7 +9,7 @@ import pytest
 import tempfile
 from pathlib import Path
 
-from src.config_reader import read_yaml_file, read_json_cfg, overwrite_json_cfg
+from src.utils.config_reader import read_yaml_file, read_json_cfg, overwrite_json_cfg
 
 ## bad arguments, special arguments, normal arguments, exceptions, return values
 ## pytest utils/test_config_reader.py::test_read_json_cfg
