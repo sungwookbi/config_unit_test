@@ -5,4 +5,4 @@ install:
  - pip install pathlib
  - pip install pyyaml
 script:
- - pytest tests
+ - pytest tests -v
