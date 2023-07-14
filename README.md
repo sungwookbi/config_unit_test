@@ -10,3 +10,8 @@ Within the folder, just type in command prompt:
 
 Example:
 ![image](https://github.com/sungwookbi/config_unit_test/assets/125332318/0594ef77-193b-480a-863f-4367f3826ad7)
+
+Also, check out:
+https://github.com/sungwookbi/config_unit_test/actions
+
+This shows that the unit test is performed whenever code is committed.
