@@ -1,7 +1,7 @@
 # config_unit_test
 
-This is a sample unit test using pytest (Needs it to be installed if run locally)
-.travis.yml is required if you are using TravisCI (continuous integration)
+This is a sample unit test using pytest (Needs it to be installed if run locally) <br>
+.travis.yml is required if you are using TravisCI (continuous integration) <br>
 requirements.txt is required for GitHub Actions (GitHub based continuous integration)
 
 Within the folder, just type in command prompt:
