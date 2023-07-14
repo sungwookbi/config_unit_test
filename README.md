@@ -2,7 +2,7 @@
 
 This is a sample unit test using pytest (Needs it to be installed if run locally) <br>
 `.travis.yml` is required if you are using TravisCI (continuous integration) <br>
-`.github/workflows/github_actions.yml` is required for GitHub Actions (GitHub based continuous integration)
+`.github/workflows/github_actions.yml` and  `requirements.txt` are required for GitHub Actions (GitHub based continuous integration)
 
 Within the folder directory, just type in command prompt:
 
